@@ -1,0 +1,219 @@
+
+#bienvenida{
+    color: aliceblue;
+
+}
+.subtitulo{ 
+    color:gold;
+}
+div h4{ 
+    color: gold;
+}
+
+#pregunta1{
+    color: rgb(255, 255, 255);
+}
+#pregunta2{
+    text-align:right;
+    color: rgb(255, 255, 255);
+}
+#pregunta3{
+    color: rgb(255, 255, 255);
+}
+#pregunta4{
+    text-align:right;
+    color: rgb(255, 255, 255);
+}
+#pregunta5{
+    color: rgb(255, 255, 255);
+}
+#pregunta6{
+    text-align:right;
+    color: aliceblue;
+}
+#pregunta6 li{
+    list-style-type: none;
+}
+#pregunta7{
+    color: aliceblue;
+}
+#cuerpo{
+    background-color: black;
+}
+ul{
+    color: aliceblue;
+}
+footer a {
+    color: aliceblue;
+}
+footer p {
+    color: aliceblue;
+}
+#avan{
+    background-color: black;
+    color:aliceblue ;
+}
+#prog{
+    background-color: black;
+    color: aliceblue;
+}
+#secc{
+    background-color: black;
+    color: aliceblue;
+}
+#General{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#Avances{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#Programas{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#secciones{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#mecat{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#soport{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#profesor{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#progr{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#escuela{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#Empresas{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#medicina{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#seguridad{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+#app{
+    background-color: black;
+    border-color: gold;
+    border-width: 1;
+    border: 2px gold solid;
+    color: gold;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    font-family: sans-serif;
+}
